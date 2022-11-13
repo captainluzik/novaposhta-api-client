@@ -3,9 +3,12 @@ Python client for Nova Poshta company's API.
 ## Installation
 Client is based on `python 3.6`.
 
+This is fork from https://github.com/semolex/novaposhta-api-client
+(last update by author 4 years ago)
+
 You can install package by using pip:
  
-`pip install git+https://github.com/semolex/novaposhta-api-client`
+`pip install git+https://github.com/captainluzik/novaposhta-api-client`
 
 ## Description
 Client is based on models and signatures, provided in [NovaPoshta API documentation](https://devcenter.novaposhta.ua/docs/services/).
